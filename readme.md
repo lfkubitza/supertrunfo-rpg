@@ -18,7 +18,8 @@ Um jogo estilo Super Trunfo com personagens de RPG feito em linguagem C.
 - Cura
 
 ## Como jogar:
-Execute o jogo, veja sua carta e escolha um atributo para competir contra o inimigo.
+Baixe o arquivo raw da pasta trunfo.exe e execute. 
+Veja sua carta e escolha um atributo para competir contra o inimigo.
 
 
 Projeto criado por: Luiz Felipe Kubitza
